@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Lazy King",
+    "slug": "lazy-king",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.parthverma.lazyking"
+    },
+    "plugins": [
+      "expo-status-bar"
+    ]
+  }
+}
